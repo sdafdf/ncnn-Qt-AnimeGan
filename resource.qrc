@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/icon-close.png</file>
+        <file>img/icon-delete.png</file>
+        <file>img/icon-help.png</file>
+        <file>img/icon-home.png</file>
+        <file>img/icon-set.png</file>
+        <file>img/history.png</file>
+        <file>img/icon-quit.png</file>
+        <file>img/icon-scanning.png</file>
+        <file>img/contact.png</file>
+        <file>img/qq.png</file>
+        <file>img/weixin.png</file>
+        <file>img/file-827x470.png</file>
+        <file>img/laba.png</file>
+        <file>img/line.png</file>
+        <file>img/qqQUN.png</file>
+        <file>img/day.png</file>
+        <file>img/night.png</file>
+        <file>img/files.png</file>
+        <file>img/select.png</file>
+        <file>img/start.png</file>
+        <file>img/result.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/MaterialDark.qss</file>
+    </qresource>
+    <qresource prefix="/model">
+        <file>classes.txt</file>
+    </qresource>
+</RCC>
